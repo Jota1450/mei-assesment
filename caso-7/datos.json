@@ -1,0 +1,169 @@
+{
+  "Datos": [
+    {
+      "Nombre": "Juan Perez",
+      "Edad": 30,
+      "Telefonos": [
+        {
+          "Tipo": "Celular",
+          "Numero": "+1 555-123-4567"
+        },
+        {
+          "Tipo": "Casa",
+          "Numero": "+1 555-987-6543"
+        }
+      ],
+      "Email": "juan.perez@example.com"
+    },
+    {
+      "Nombre": "María Lopez",
+      "Edad": 25,
+      "Telefonos": [
+        {
+          "Tipo": "Celular",
+          "Numero": "+1 555-111-1111"
+        },
+        {
+          "Tipo": "Trabajo",
+          "Numero": "+1 555-222-2222"
+        }
+      ],
+      "Email": "maria.lopez@example.com"
+    },
+    {
+      "Nombre": "Pedro Ramirez",
+      "Edad": 35,
+      "Telefonos": [
+        {
+          "Tipo": "Casa",
+          "Numero": "+1 555-333-3333"
+        },
+        {
+          "Tipo": "Trabajo",
+          "Numero": "+1 555-444-4444"
+        }
+      ],
+      "Email": "pedro.ramirez@example.com"
+    },
+    {
+      "Nombre": "Ana Garcia",
+      "Edad": 28,
+      "Telefonos": [
+        {
+          "Tipo": "Celular",
+          "Numero": "+1 555-555-5555"
+        },
+        {
+          "Tipo": "Casa",
+          "Numero": "+1 555-666-6666"
+        }
+      ],
+      "Email": "ana.garcia@example.com"
+    },
+    {
+      "Nombre": "Carlos Torres",
+      "Edad": 42,
+      "Telefonos": [
+        {
+          "Tipo": "Trabajo",
+          "Numero": "+1 555-777-7777"
+        },
+        {
+          "Tipo": "Celular",
+          "Numero": "+1 555-888-8888"
+        }
+      ],
+      "Email": "carlos.torres@example.com"
+    },
+    {
+      "Nombre": "Laura Sanchez",
+      "Edad": 31,
+      "Telefonos": [
+        {
+          "Tipo": "Celular",
+          "Numero": "+1 555-999-9999"
+        },
+        {
+          "Tipo": "Casa",
+          "Numero": "+1 555-000-0000"
+        }
+      ],
+      "Email": "laura.sanchez@example.com"
+    },
+    {
+      "Nombre": "Luis Torres",
+      "Edad": 29,
+      "Telefonos": [
+        {
+          "Tipo": "Celular",
+          "Numero": "+1 555-111-2222"
+        },
+        {
+          "Tipo": "Trabajo",
+          "Numero": "+1 555-222-3333"
+        }
+      ],
+      "Email": "luis.torres@example.com"
+    },
+    {
+      "Nombre": "Sofia Martinez",
+      "Edad": 27,
+      "Telefonos": [
+        {
+          "Tipo": "Casa",
+          "Numero": "+1 555-333-4444"
+        },
+        {
+          "Tipo": "Trabajo",
+          "Numero": "+1 555-444-5555"
+        }
+      ],
+      "Email": "sofia.martinez@example.com"
+    },
+    {
+      "Nombre": "Diego Herrera",
+      "Edad": 33,
+      "Telefonos": [
+        {
+          "Tipo": "Celular",
+          "Numero": "+1 555-555-6666"
+        },
+        {
+          "Tipo": "Casa",
+          "Numero": "+1 555-666-7777"
+        }
+      ],
+      "Email": "diego.herrera@example.com"
+    },
+    {
+      "Nombre": "Valentina Gomez",
+      "Edad": 24,
+      "Telefonos": [
+        {
+          "Tipo": "Celular",
+          "Numero": "+1 555-777-8888"
+        },
+        {
+          "Tipo": "Trabajo",
+          "Numero": "+1 555-888-9999"
+        }
+      ],
+      "Email": "valentina.gomez@example.com"
+    },
+    {
+      "Nombre": "Andrés Rivera",
+      "Edad": 37,
+      "Telefonos": [
+        {
+          "Tipo": "Casa",
+          "Numero": "+1 555-999-0000"
+        },
+        {
+          "Tipo": "Trabajo",
+          "Numero": "+1 555-000-1111"
+        }
+      ],
+      "Email": "andres.rivera@example.com"
+    }
+  ]
+}
