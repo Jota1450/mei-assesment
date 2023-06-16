@@ -6,6 +6,6 @@ CASO 5. Revise el CSS a continuación. ¿De qué color esperaría que fuera el c
 }
 ```
 1.	black
-`2.	blue`
+2.	<s>**blue**</s>
 3.	transparent
 4.	white
